@@ -109,9 +109,9 @@ body{
 
 /* Slot root - dark/simple */
 .slot-root.simple{width:100%;max-width:560px;background:rgba(0,0,0,0.5);padding:20px;border-radius:14px;border:1px solid rgba(255,255,255,0.04);box-shadow:0 10px 30px rgba(0,0,0,0.6)}
-.slot-root.simple{position:relative;z-index:10;width:100%;max-width:560px;background:rgba(0,0,0,0.5);padding:20px;border-radius:14px;border:1px solid rgba(255,255,255,0.04);box-shadow:0 10px 30px rgba(0,0,0,0.6)}
-.slot-root.simple .slot-frame{padding:12px;background:linear-gradient(180deg,rgba(255,255,255,0.02),transparent);border-radius:10px}
-.balance{font-weight:700;font-size:18px;margin-bottom:10px;color:#fff;text-align:center}
+.slot-root.simple{position:relative;z-index:10;width:100%;max-width:560px;background:rgba(0, 0, 0, 0.5);padding:20px;border-radius:14px;border:1px solid rgba(255,255,255,0.04);box-shadow:0 10px 30px rgba(0,0,0,0.6)}
+.slot-root.simple .slot-frame{padding:12px;background:linear-gradient(180deg,rgba(39, 92, 207, 0.932),transparent);border-radius:10px}
+.balance{font-weight:700;font-size:18px;margin-bottom:10px;color:#ffffff;text-align:center}
 
 .machine{display:flex;gap:12px;padding:12px;background:transparent;border-radius:8px;margin-bottom:12px;justify-content:center}
 .reel{width:140px;height:120px;background:linear-gradient(180deg,#111,#222);display:flex;align-items:center;justify-content:center;border-radius:10px;border:1px solid rgba(255,255,255,0.03);box-shadow:inset 0 6px 12px rgba(255,255,255,0.02),0 8px 20px rgba(0,0,0,0.6);font-size:56px}

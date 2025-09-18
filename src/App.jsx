@@ -23,8 +23,8 @@ function InnerApp(){
 
       <main className="container">
     <section className="hero">
-      <h1>Welcome to React Casino</h1>
-      <p>Classic dark-themed fruit slot — play a quick demo.</p>
+      <h1>Welcome to Casino Slots game</h1>
+      <p>A simple slots demo game with google login. "Google login does not work while the application is hosted on netlify"</p>
     </section>
 
         <section className="casino-scene">
